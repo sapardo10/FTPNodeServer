@@ -1,0 +1,32 @@
+{
+  "name": "ftpnodeserver",
+  "version": "1.0.0",
+  "description": "FTP server implemented on NodeJS ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapardo10/FTPNodeServer.git"
+  },
+  "keywords": [
+    "FTP",
+    "server",
+    "NodeJS",
+    "JavaScript",
+    "TCP"
+  ],
+  "author": "Sergio Andrés Pardo Sánchez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sapardo10/FTPNodeServer/issues"
+  },
+  "homepage": "https://github.com/sapardo10/FTPNodeServer#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}
